@@ -1,8 +1,4 @@
 import pandas as pd
-from functools import reduce
-
-
-import pandas as pd
 
 def merge_cricket_stats(*dfs):
     """
@@ -110,5 +106,7 @@ df7 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
 
 
 result = merge_cricket_stats(df1, df2, df3, df4, df5, df6, df7)
+result.drop(['player_id'], axis=1, inplace=True)
+result.columns = ["Name", "Team", "Matches", "Innings", "Runs", "Highest", "Average", "Not Outs", "Strike Rate", "Balls Faced", "Batting Hand", "4s", "6s", "50s", "100s"]
 result.to_csv("final_data.csv", index=False, encoding="utf-8")
 print(result.to_string())

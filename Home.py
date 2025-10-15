@@ -6,7 +6,7 @@ import plotly.express as px
 df = pd.read_csv("final_data.csv")
 
 # Add "All Players" option to the top of the dropdown
-player_names = ["All Players"] + sorted(df["name"].unique().tolist())
+player_names = ["All Players"] + sorted(df["Name"].unique().tolist())
 selected_player = st.sidebar.selectbox("Select a Player", player_names)
 
 # === HOME PAGE ===
@@ -14,8 +14,8 @@ if selected_player == "All Players":
     st.title("🏏 SPVGG Dragons - Team Overview")
 
     # TEAM SUMMARY METRICS
-    total_runs = df["total_runs"].sum()
-    total_matches = df["total_match"].max()
+    total_runs = df["Runs"].sum()
+    total_matches = df["Matches"].max()
     total_4s = df["4s"].sum()
     total_6s = df["6s"].sum()
 
@@ -27,12 +27,12 @@ if selected_player == "All Players":
 
     # DONUT CHART - RUNS CONTRIBUTION
     st.subheader("🎯 Run Contribution by Player")
-    top_scorers = df[df["total_runs"] > 0].sort_values(by="total_runs", ascending=False)
+    top_scorers = df[df["Runs"] > 0].sort_values(by="Runs", ascending=False)
 
     fig = px.pie(
         top_scorers,
-        names="name",
-        values="total_runs",
+        names="Name",
+        values="Runs",
         title="Total Runs Scored by Each Player",
         hole=0.4
     )
@@ -40,19 +40,19 @@ if selected_player == "All Players":
 
     # OPTIONAL: Show table of top performers
     st.subheader("📋 Top 10 Run Scorers")
-    st.dataframe(top_scorers[["name", "total_runs", "average", "strike_rate"]].head(10))
+    st.dataframe(top_scorers[["Name", "Runs", "Average", "Strike Rate"]].head(10))
 
 # === PLAYER PROFILE PAGE ===
 else:
-    player_data = df[df["name"] == selected_player].squeeze()
+    player_data = df[df["Name"] == selected_player].squeeze()
 
     st.title(f"{selected_player} - Batting Performance")
 
     # Key Stats
     col1, col2, col3 = st.columns(3)
-    col1.metric("Total Runs", player_data["total_runs"])
-    col2.metric("Average", round(player_data["average"], 2))
-    col3.metric("Strike Rate", round(player_data["strike_rate"], 2))
+    col1.metric("Total Runs", player_data["Runs"])
+    col2.metric("Average", round(player_data["Average"], 2))
+    col3.metric("Strike Rate", round(player_data["Strike Rate"], 2))
 
     # Boundary Breakdown
     st.subheader("Boundary Breakdown")

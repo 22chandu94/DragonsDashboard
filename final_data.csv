@@ -1,32 +1,32 @@
-player_id,name,team_name,total_match,innings,total_runs,highest_run,average,not_out,strike_rate,ball_faced,batting_hand,4s,6s,50s,100s
-12791022,Chandrashekar Umapathi,SPVGG Dragons,39,35,988,58,42.96,12,182.96,540,RHB,53,97,7,0
-744616,Navin Dhamecha,SPVGG Dragons,26,25,545,54,28.68,6,137.97,395,RHB,46,35,4,0
-2607432,Ankur Tyagi,SPVGG Dragons,29,29,440,37,17.6,4,103.77,424,RHB,58,5,0,0
-29063790,Manoj Kumar,SPVGG Dragons,29,24,433,105,28.87,9,150.87,287,RHB,47,27,0,2
-31982831,Anoop Kiran,SPVGG Dragons,33,22,357,50,27.46,9,144.53,247,RHB,22,29,1,0
-29061009,Susheel Amingad,SPVGG Dragons,35,22,184,37,10.82,5,85.98,214,RHB,20,6,0,0
-28640126,Adi,SPVGG Dragons,27,14,126,23,11.45,3,144.83,87,RHB,8,11,0,0
-29046786,Kush Coshic,SPVGG Dragons,14,12,124,25,12.4,2,111.71,111,RHB,11,5,0,0
-38367746,Santosh Upadhye,SPVGG Dragons,25,13,121,31,20.17,7,92.37,131,RHB,10,1,0,0
-31976073,Srinivas Akkineni,SPVGG Dragons,24,15,98,30,7.54,2,88.29,111,RHB,6,3,0,0
-31510704,Jayesh Germany,SPVGG Dragons,10,10,89,23,8.9,0,98.89,90,LHB,9,3,0,0
-4655513,Smeet Shah,SPVGG Dragons,24,14,85,16,6.07,0,96.59,88,LHB,2,9,0,0
-31555761,Amruth Ramani,SPVGG Dragons,6,2,50,37,25.0,0,113.64,44,RHB,5,2,0,0
-11066263,H Pavan Kumar,SPVGG Dragons,39,17,37,6,2.85,4,78.72,47,RHB,3,1,0,0
-28007346,Allen Cutinha,SPVGG Dragons,5,3,36,31,36.0,2,163.64,22,RHB,2,3,0,0
-1,Kiran Goankar,SPVGG Dragons,2,2,30,15,15.0,0,83.33,36,LHB,0,2,0,0
-31510876,Keshav Rao,SPVGG Dragons,25,7,23,14,5.75,3,88.46,26,RHB,3,0,0,0
-1173568,Anshul,SPVGG Dragons,11,5,9,4,1.8,0,52.94,17,RHB,2,0,0,0
-38351661,Sumit Agarwal,SPVGG Dragons,2,1,8,8,8.0,0,61.54,13,RHB,1,0,0,0
-31717293,Sudhanshu Kumar,SPVGG Dragons,2,1,7,7,7.0,0,46.67,15,RHB,0,0,0,0
-41959501,Sriram Karanam,SPVGG Dragons,7,2,7,6,7.0,1,70.0,10,LHB,1,0,0,0
-2302435,Abhinav,SPVGG Dragons,5,3,5,3,1.67,0,38.46,13,RHB,0,0,0,0
-22416987,Akash Patni,SPVGG Dragons,3,2,3,2,1.5,0,42.86,7,RHB,0,0,0,0
-28007361,Yogesh Dhariyal,SPVGG Dragons,11,2,2,1,2.0,1,50.0,4,RHB,0,0,0,0
-31435913,Shreyas Friedberg,SPVGG Dragons,7,2,1,1,1.0,1,11.11,9,LHB,0,0,0,0
-841517,Jaan,SPVGG Dragons,1,1,0,0,0.0,0,0.0,4,RHB,0,0,0,0
-14454653,Riswan,SPVGG Dragons,1,0,0,0,0.0,0,0.0,0,RHB,0,0,0,0
-7467346,Sanchit Mahajan,SPVGG Dragons,1,0,0,0,0.0,0,0.0,0,RHB,0,0,0,0
-29718658,Shiva,SPVGG Dragons,6,1,0,0,0.0,1,0.0,0,RHB,0,0,0,0
-38352714,Suyog Vaidya,SPVGG Dragons,6,0,0,0,0.0,0,0.0,0,RHB,0,0,0,0
-38541684,Lavnish Sharma,SPVGG Dragons,6,0,0,0,0.0,0,0.0,0,-,0,0,0,0
+Name,Team,Matches,Innings,Runs,Highest,Average,Not Outs,Strike Rate,Balls Faced,Batting Hand,4s,6s,50s,100s
+Chandrashekar Umapathi,SPVGG Dragons,39,35,988,58,42.96,12,182.96,540,RHB,53,97,7,0
+Navin Dhamecha,SPVGG Dragons,26,25,545,54,28.68,6,137.97,395,RHB,46,35,4,0
+Ankur Tyagi,SPVGG Dragons,29,29,440,37,17.6,4,103.77,424,RHB,58,5,0,0
+Manoj Kumar,SPVGG Dragons,29,24,433,105,28.87,9,150.87,287,RHB,47,27,0,2
+Anoop Kiran,SPVGG Dragons,33,22,357,50,27.46,9,144.53,247,RHB,22,29,1,0
+Susheel Amingad,SPVGG Dragons,35,22,184,37,10.82,5,85.98,214,RHB,20,6,0,0
+Adi,SPVGG Dragons,27,14,126,23,11.45,3,144.83,87,RHB,8,11,0,0
+Kush Coshic,SPVGG Dragons,14,12,124,25,12.4,2,111.71,111,RHB,11,5,0,0
+Santosh Upadhye,SPVGG Dragons,25,13,121,31,20.17,7,92.37,131,RHB,10,1,0,0
+Srinivas Akkineni,SPVGG Dragons,24,15,98,30,7.54,2,88.29,111,RHB,6,3,0,0
+Jayesh Germany,SPVGG Dragons,10,10,89,23,8.9,0,98.89,90,LHB,9,3,0,0
+Smeet Shah,SPVGG Dragons,24,14,85,16,6.07,0,96.59,88,LHB,2,9,0,0
+Amruth Ramani,SPVGG Dragons,6,2,50,37,25.0,0,113.64,44,RHB,5,2,0,0
+H Pavan Kumar,SPVGG Dragons,39,17,37,6,2.85,4,78.72,47,RHB,3,1,0,0
+Allen Cutinha,SPVGG Dragons,5,3,36,31,36.0,2,163.64,22,RHB,2,3,0,0
+Kiran Goankar,SPVGG Dragons,2,2,30,15,15.0,0,83.33,36,LHB,0,2,0,0
+Keshav Rao,SPVGG Dragons,25,7,23,14,5.75,3,88.46,26,RHB,3,0,0,0
+Anshul,SPVGG Dragons,11,5,9,4,1.8,0,52.94,17,RHB,2,0,0,0
+Sumit Agarwal,SPVGG Dragons,2,1,8,8,8.0,0,61.54,13,RHB,1,0,0,0
+Sudhanshu Kumar,SPVGG Dragons,2,1,7,7,7.0,0,46.67,15,RHB,0,0,0,0
+Sriram Karanam,SPVGG Dragons,7,2,7,6,7.0,1,70.0,10,LHB,1,0,0,0
+Abhinav,SPVGG Dragons,5,3,5,3,1.67,0,38.46,13,RHB,0,0,0,0
+Akash Patni,SPVGG Dragons,3,2,3,2,1.5,0,42.86,7,RHB,0,0,0,0
+Yogesh Dhariyal,SPVGG Dragons,11,2,2,1,2.0,1,50.0,4,RHB,0,0,0,0
+Shreyas Friedberg,SPVGG Dragons,7,2,1,1,1.0,1,11.11,9,LHB,0,0,0,0
+Jaan,SPVGG Dragons,1,1,0,0,0.0,0,0.0,4,RHB,0,0,0,0
+Riswan,SPVGG Dragons,1,0,0,0,0.0,0,0.0,0,RHB,0,0,0,0
+Sanchit Mahajan,SPVGG Dragons,1,0,0,0,0.0,0,0.0,0,RHB,0,0,0,0
+Shiva,SPVGG Dragons,6,1,0,0,0.0,1,0.0,0,RHB,0,0,0,0
+Suyog Vaidya,SPVGG Dragons,6,0,0,0,0.0,0,0.0,0,RHB,0,0,0,0
+Lavnish Sharma,SPVGG Dragons,6,0,0,0,0.0,0,0.0,0,-,0,0,0,0
