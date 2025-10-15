@@ -1,0 +1,468 @@
+player_id,name,team_id,team_name,total_match,innings,total_wickets,balls,highest_wicket,economy,SR,maidens,avg,runs,bowling_style,overs,dot_balls
+16254681,Pranay Kumar Pathike,7440693,TSV Darmstadt XI,7,7,14,84,3,11.07,6.00,0,11.07,155,Right-arm medium,14.0,40
+2401173,Mithun Puthenkottupalliyil,430802,Tgs Indian Challengers,5,5,12,55,5,7.64,4.58,0,5.83,70,Right-arm medium,9.1,29
+11066263,H Pavan Kumar,7356382,SPVGG Dragons,6,6,11,66,3,9.00,6.00,0,9,99,Right-arm medium,11.0,35
+31718164,Veeru Kolla,7440693,TSV Darmstadt XI,7,7,10,78,3,7.62,7.80,0,9.9,99,Right-arm fast,13.0,37
+25317603,Raghu Vinod,7440693,TSV Darmstadt XI,7,7,9,84,3,6.57,9.33,1,10.22,92,Right-arm fast,14.0,46
+26084196,Lovepreet Kamboj,2114868,SVS Frankfurt Eagles,7,7,9,66,2,9.27,7.33,0,11.33,102,Right-arm fast,11.0,33
+33491116,Hayatullah Habibzai,9304922,Wetzlar Sixers,6,6,8,66,3,5.64,8.25,0,7.75,62,Right-arm fast,11.0,34
+37944866,Nasir,9304922,Wetzlar Sixers,6,6,8,66,3,5.64,8.25,0,7.75,62,Right-arm medium,11.0,41
+31708287,Sai Krishna Reddy Guntaka,7440693,TSV Darmstadt XI,7,7,8,84,3,8.14,10.50,0,14.25,114,Right-arm fast,14.0,45
+31510171,Vaibhav Patil,7437045,Hawk Hunters,5,5,7,60,2,4.10,8.57,0,5.86,41,Right-arm fast,10.0,33
+31713291,Ahmad Khan,7442593,AMU Sultans,4,4,7,48,3,5.25,6.86,0,6,42,Right-arm medium,8.0,26
+38198387,Nikash,6941365,Karlsruhe Knights,4,4,7,42,3,5.43,6.00,0,5.43,38,Right-arm medium,7.0,24
+8451957,Rahul Agarwal,806595,Juggernaut Cricket Club,2,2,7,23,4,5.74,3.29,0,3.14,22,Right-arm medium,3.5,14
+38806696,Sharif Manhil,9304922,Wetzlar Sixers,5,5,7,47,2,6.77,6.71,0,7.57,53,Right-arm medium,7.5,25
+28727397,Imtiaz Kh,2114868,SVS Frankfurt Eagles,7,5,7,54,3,7.11,7.71,0,9.14,64,Right-arm fast,9.0,28
+5475264,Srikanth Thorlikonda,7440693,TSV Darmstadt XI,7,7,7,59,3,7.93,8.43,0,11.14,78,Right-arm fast,9.5,35
+3274991,Raviteja Manam,3642022,FCC Friends XI,5,5,7,60,5,8.60,8.57,0,12.29,86,Right-arm fast,10.0,34
+35998313,Dinesh Sai,4814191,TBG Neulussheim,5,5,7,60,3,9.60,8.57,0,13.71,96,Right-arm medium,10.0,28
+5649838,Punith,3642022,FCC Friends XI,5,5,7,54,3,10.00,7.71,0,12.86,90,Right-arm medium,9.0,26
+29061009,Susheel Amingad,7356382,SPVGG Dragons,6,6,7,60,4,11.60,8.57,0,16.57,116,Right-arm fast,10.0,26
+31921448,Raghavan Sivaraj,3793721,Trebur Cricket Club,4,4,6,48,3,5.62,8.00,0,7.5,45,Right-arm medium,8.0,29
+22669915,Sutharsan,6941365,Karlsruhe Knights,4,4,6,48,3,6.25,8.00,0,8.33,50,Right-arm medium,8.0,29
+14141187,Sai,4814191,TBG Neulussheim,5,5,6,54,3,6.44,9.00,1,9.67,58,Right-arm fast,9.0,29
+6387587,Akshay Natarajan,430654,Royal Strikers FFM,4,3,6,36,4,6.50,6.00,1,6.5,39,Right-arm medium,6.0,20
+34046449,Tejas Gadhe,9428609,Hanau Pioneers,4,4,6,48,2,6.62,8.00,0,8.83,53,Right-arm fast,8.0,28
+37943869,Liaqat Khan,9304922,Wetzlar Sixers,6,6,6,60,1,8.70,10.00,0,14.5,87,Right-arm fast,10.0,30
+28385132,Zahidullah Zadran,2114868,SVS Frankfurt Eagles,6,6,6,66,2,9.09,11.00,0,16.67,100,Right-arm medium,11.0,29
+31713327,Mohd Jan,7442593,AMU Sultans,4,4,6,36,3,9.33,6.00,0,9.33,56,Right-arm fast,6.0,17
+3279367,Harinatha Gunditharu,430802,Tgs Indian Challengers,5,5,6,54,3,9.89,9.00,0,14.83,89,Right-arm fast,9.0,22
+28329953,Usman Khalid,7437938,FalconsXI,4,4,6,30,4,11.20,5.00,0,9.33,56,Right-arm medium,5.0,12
+32100869,Gaurav Lanjekar,9428609,Hanau Pioneers,3,3,5,36,3,4.33,7.20,0,5.2,26,Right-arm Off Break,6.0,20
+12797724,Rakesh Kumar Sahoo,3793721,Trebur Cricket Club,4,4,5,48,2,4.62,9.60,1,7.4,37,Right-arm medium,8.0,32
+28007346,Allen Cutinha,3793721,Trebur Cricket Club,4,4,5,48,2,4.62,9.60,0,7.4,37,Right-arm medium,8.0,26
+5502848,Jitendra Singh,9390582,TSGN Royal Lions,3,3,5,30,3,4.80,6.00,1,4.8,24,Right-arm medium,5.0,16
+31708543,Hamid Shah,7437938,FalconsXI,4,4,5,39,3,6.31,7.80,1,8.2,41,Right-arm medium,6.3,21
+38608339,Hameed Khan,2114868,SVS Frankfurt Eagles,4,3,5,30,4,6.60,6.00,0,6.6,33,Left-arm medium,5.0,18
+10708040,Sumit Agarwal,9428609,Hanau Pioneers,4,4,5,48,2,6.88,9.60,0,11,55,Right-arm medium,8.0,28
+14946054,Tud Rhythm Chauhan,2623314,TSV Darmstadt United,3,3,5,30,2,7.00,6.00,0,7,35,Left-arm medium,5.0,15
+22372349,Gopal Cricket Germany,4674227,BlueWings,3,3,5,36,3,7.00,7.20,0,8.4,42,Right-arm fast,6.0,19
+2169288,Pritesh Pereira,430802,Tgs Indian Challengers,3,3,5,30,4,7.60,6.00,0,7.6,38,Right-arm fast,5.0,14
+20727167,Deepak Kumar Purseth,2204871,MSC Black Bears,3,3,5,36,2,8.50,7.20,0,10.2,51,Right-arm medium,6.0,17
+31908427,Nithish Kumar,9436054,RCB,3,3,5,30,3,8.60,6.00,0,8.6,43,Right-arm fast,5.0,15
+5504733,Laxman,3642022,FCC Friends XI,5,5,5,36,2,8.83,7.20,0,10.6,53,Right-arm medium,6.0,21
+31710212,Karthik Kasula,7437045,Hawk Hunters,4,4,5,40,3,9.15,8.00,0,12.2,61,Right-arm fast,6.4,18
+12423573,Rishi,4220557,TSGN Royal Warriors,3,3,5,30,2,9.60,6.00,0,9.6,48,Right-arm fast,5.0,10
+4253046,Gaggi Kalotha,2114868,SVS Frankfurt Eagles,7,5,5,38,2,10.58,7.60,0,13.4,67,Right-arm medium,6.2,18
+13480256,Gokul Karthikeyan,1517508,Frankfurt Spartans Cricket Club,4,4,5,35,2,10.97,7.00,0,12.8,64,Right-arm medium,5.5,18
+23771969,Atul Pradeep,6941365,Karlsruhe Knights,4,4,5,29,2,11.38,5.80,0,11,55,Right-arm medium,4.5,8
+34046542,Basavaraj M,9428609,Hanau Pioneers,3,3,5,36,3,11.50,7.20,0,13.8,69,Right-arm fast,6.0,17
+5458344,Boney Mathew,1517508,Frankfurt Spartans Cricket Club,4,3,4,22,2,6.55,5.50,0,6,24,Right-arm medium,3.4,14
+13764702,Ajay Kumar Holla,4814191,TBG Neulussheim,5,5,4,42,3,6.86,10.50,0,12,48,Right-arm medium,7.0,22
+31718657,Nitish Kashyap,9436054,RCB,3,3,4,36,2,7.17,9.00,0,10.75,43,Right-arm fast,6.0,18
+38367746,Santosh Upadhye,7356382,SPVGG Dragons,3,3,4,36,2,7.17,9.00,0,10.75,43,Right-arm fast,6.0,15
+38351769,Raman,9428609,Hanau Pioneers,4,4,4,42,2,7.57,10.50,0,13.25,53,Right-arm medium,7.0,18
+28329955,Ahsan Safdar,7437938,FalconsXI,3,3,4,30,2,7.60,7.50,0,9.5,38,Right-arm medium,5.0,16
+38803330,Manzoor Ibrahimkhil,9304922,Wetzlar Sixers,4,4,4,48,3,7.62,12.00,0,15.25,61,Right-arm fast,8.0,25
+22860248,Supreeth Bharadwaj H S,4814191,TBG Neulussheim,5,5,4,42,2,8.14,10.50,0,14.25,57,Right-arm fast,7.0,20
+2109393,Anirudh Rao,2204871,MSC Black Bears,3,3,4,36,2,8.83,9.00,0,13.25,53,Right-arm fast,6.0,19
+36842617,Abbas Abasin,9304922,Wetzlar Sixers,4,4,4,36,4,9.17,9.00,0,13.75,55,Right-arm medium,6.0,15
+13294628,Sreejith Sreedharan Nair,1517508,Frankfurt Spartans Cricket Club,4,4,4,30,2,9.40,7.50,0,11.75,47,Right-arm medium,5.0,17
+17401401,Rohit Trivedi,4814191,TBG Neulussheim,5,5,4,41,2,9.66,10.25,0,16.5,66,Left-arm fast,6.5,15
+11902845,Jomon,6941365,Karlsruhe Knights,3,3,4,36,2,9.83,9.00,0,14.75,59,Right-arm fast,6.0,14
+31627767,Manpreet Singh,7415121,MSC Achievers 11,3,3,4,30,3,10.40,7.50,0,13,52,Right-arm fast,5.0,15
+12348270,Puneeth Kempagowda,3642022,FCC Friends XI,3,2,4,24,4,10.75,6.00,0,10.75,43,Right-arm medium,4.0,6
+3279362,Sudeept Jaiswal,430802,Tgs Indian Challengers,5,5,4,42,2,10.86,10.50,0,19,76,Right-arm medium,7.0,15
+33438131,Sujeesh,7989971,Mainz Cricket Club,3,3,4,30,2,11.00,7.50,0,13.75,55,Right-arm medium,5.0,13
+38603737,Karan Dulloo,9491502,Mighty Titans,3,3,4,36,4,11.00,9.00,0,16.5,66,Right-arm fast,6.0,16
+32536784,Aakash Khaira,2623314,TSV Darmstadt United,2,2,4,24,3,12.50,6.00,0,12.5,50,Left-arm medium,4.0,11
+21909400,Raghu,7415125,Sulzbach XI,3,3,4,29,3,13.24,7.25,0,16,64,Right-arm Off Break,4.5,14
+33445405,Joby Panthily,7989971,Mainz Cricket Club,3,3,4,30,3,15.40,7.50,0,19.25,77,Right-arm fast,5.0,8
+6798691,Gabru,806595,Juggernaut Cricket Club,3,2,3,18,2,3.67,6.00,0,3.67,11,Right-arm fast,3.0,8
+38213498,Sahil Vashishtha,9390582,TSGN Royal Lions,3,3,3,30,2,4.40,10.00,0,7.33,22,Right-arm Off Break,5.0,18
+37593419,Shivam Salunkhe,2623314,TSV Darmstadt United,3,1,3,12,3,5.50,4.00,0,3.67,11,Right-arm medium,2.0,5
+1173568,Anshul,7415121,MSC Achievers 11,3,3,3,36,2,5.67,12.00,0,11.33,34,Right-arm fast,6.0,18
+14125282,Sidharth Sharma,7415125,Sulzbach XI,3,3,3,30,2,5.80,10.00,0,9.67,29,Right-arm medium,5.0,17
+12352317,Daud Muhammad,2114868,SVS Frankfurt Eagles,7,6,3,72,3,5.92,24.00,1,23.67,71,Left-arm fast,12.0,34
+15515387,Ali Khalid,7437938,FalconsXI,3,3,3,24,1,6.00,8.00,0,8,24,Right-arm medium,4.0,16
+3283067,Umapathy Kumar,3793721,Trebur Cricket Club,4,4,3,42,1,6.14,14.00,0,14.33,43,Right-arm medium,7.0,23
+27965010,Gopalam Moram,430802,Tgs Indian Challengers,5,3,3,19,3,7.26,6.33,0,7.67,23,Right-arm Off Break,3.1,14
+29718658,Shiva,7356382,SPVGG Dragons,3,3,3,36,3,7.50,12.00,0,15,45,Right-arm fast,6.0,16
+31704616,Sameer Ginotra,4674227,BlueWings,3,3,3,36,2,7.83,12.00,0,15.67,47,Left-arm medium,6.0,16
+23618018,Md Abdus Samad,8007462,SV Tigers am Main,3,3,3,34,2,8.12,11.33,1,15.33,46,Right-arm fast,5.4,19
+5655194,Nitin,6290732,TSV Frankfurt Garuda,3,3,3,36,2,8.17,12.00,0,16.33,49,Right-arm medium,6.0,23
+38984428,Rahmatullah,7437045,Hawk Hunters,5,5,3,54,1,8.33,18.00,0,25,75,Right-arm fast,9.0,25
+2766814,Ravi,4814191,TBG Neulussheim,5,2,3,20,2,9.00,6.67,0,10,30,Right-arm Leg Break,3.2,10
+21909738,Anoop P B,7415125,Sulzbach XI,3,3,3,30,2,9.00,10.00,0,15,45,Right-arm medium,5.0,16
+29063790,Manoj Kumar,7356382,SPVGG Dragons,6,6,3,72,1,9.17,24.00,0,36.67,110,Right-arm fast,12.0,37
+32031834,Selvaraj Kanniyan,430654,Royal Strikers FFM,4,4,3,42,2,9.29,14.00,0,21.67,65,Right-arm medium,7.0,17
+31700116,Deepak Savant,7415121,MSC Achievers 11,3,3,3,36,1,9.33,12.00,0,18.67,56,Right-arm medium,6.0,16
+22371480,Siva Tumpala,4674227,BlueWings,3,3,3,24,2,9.50,8.00,0,12.67,38,Right-arm fast,4.0,13
+3279200,Nitin Tyagi,806595,Juggernaut Cricket Club,4,4,3,42,1,9.57,14.00,0,22.33,67,Right-arm fast,7.0,17
+20843255,Harsh Patel,4220557,TSGN Royal Warriors,3,3,3,30,1,9.60,10.00,0,16,48,Right-arm medium,5.0,15
+5630569,Dhinesh Kumar Periyasamy,430654,Royal Strikers FFM,4,4,3,48,1,9.62,16.00,1,25.67,77,Right-arm medium,8.0,18
+31630634,Nepoleon Palanivelu,9435425,SG Malchen,3,3,3,28,3,9.64,9.33,0,15,45,Right-arm medium,4.4,17
+38390529,Peeyush Paul,806595,Juggernaut Cricket Club,1,1,3,12,3,10.00,4.00,0,6.67,20,Right-arm fast,2.0,5
+31510876,Keshav Rao,7356382,SPVGG Dragons,4,4,3,31,2,10.06,10.33,0,17.33,52,Right-arm medium,5.1,12
+20710655,Shrenik Jain,4220557,TSGN Royal Warriors,3,3,3,36,2,10.17,12.00,0,20.33,61,Right-arm fast,6.0,17
+5561804,Hossen Ali,8007462,SV Tigers am Main,3,3,3,30,2,10.20,10.00,0,17,51,Right-arm medium,5.0,10
+30968172,Hiru Dobs,4814191,TBG Neulussheim,5,4,3,40,2,10.65,13.33,0,23.67,71,Right-arm medium,6.4,20
+3283002,Teekay,9434097,Darebulls,2,2,3,24,2,10.75,8.00,0,14.33,43,Right-arm fast,4.0,7
+32089504,Sahil Verma,2623314,TSV Darmstadt United,3,3,3,30,2,11.20,10.00,0,18.67,56,Right-arm medium,5.0,15
+12790718,Mit Donda,1517508,Frankfurt Spartans Cricket Club,4,4,3,30,1,11.40,10.00,0,19,57,Right-arm fast,5.0,10
+12770686,Talha Zameer,2204871,MSC Black Bears,2,2,3,24,3,12.25,8.00,0,16.33,49,Right-arm fast,4.0,6
+31653882,Karthik P,7424272,Freizeit CC,3,2,3,24,2,12.25,8.00,0,16.33,49,Right-arm medium,4.0,12
+5537154,Anik Mishu,8007462,SV Tigers am Main,3,3,3,30,2,12.40,10.00,0,20.67,62,Right-arm fast,5.0,9
+31732595,Saksham Gupta,2204871,MSC Black Bears,3,3,3,24,2,13.00,8.00,0,17.33,52,Right-arm fast,4.0,8
+31704641,Mohit Maverick,9390582,TSGN Royal Lions,3,3,3,30,2,13.40,10.00,0,22.33,67,Right-arm fast,5.0,14
+38796112,Ujjwal Sachdeva,9491502,Mighty Titans,2,2,3,18,2,17.67,6.00,0,17.67,53,Right-arm medium,3.0,7
+28352302,Praveen Kumar Damera,3642022,FCC Friends XI,5,1,2,6,2,1.00,3.00,0,0.5,1,Right-arm medium,1.0,5
+28640126,Adi,7356382,SPVGG Dragons,5,2,2,18,2,3.33,9.00,0,5,10,Right-arm fast,3.0,10
+27869378,Prasoon Verma,1517508,Frankfurt Spartans Cricket Club,4,2,2,13,2,3.69,6.50,0,4,8,Right-arm fast,2.1,11
+33987148,Shery Ahmed,7437045,Hawk Hunters,4,3,2,30,2,4.20,15.00,0,10.5,21,Right-arm medium,5.0,17
+27923257,Girish Menon,6269379,TGS Rising Challengers,3,2,2,18,1,4.67,9.00,0,7,14,Right-arm medium,3.0,8
+4539374,Rohit Arora,806595,Juggernaut Cricket Club,2,2,2,24,2,5.00,12.00,0,10,20,Right-arm medium,4.0,15
+31627748,Aakash Parmar,4220557,TSGN Royal Warriors,3,3,2,36,1,5.00,18.00,0,15,30,Right-arm fast,6.0,20
+14963258,Vishal,2623314,TSV Darmstadt United,3,3,2,36,1,5.17,18.00,0,15.5,31,Right-arm fast,6.0,21
+38541684,Lavnish Sharma,7356382,SPVGG Dragons,2,2,2,18,1,6.00,9.00,0,9,18,Right-arm medium,3.0,9
+31950753,Saed Ashrati,2114868,SVS Frankfurt Eagles,2,2,2,24,2,6.00,12.00,0,12,24,Right-arm medium,4.0,14
+31921724,Zamir Hasan,7442593,AMU Sultans,3,3,2,36,2,6.50,18.00,0,19.5,39,Right-arm medium,6.0,22
+32060897,Rajesh Bura,3642022,FCC Friends XI,4,3,2,25,1,6.72,12.50,0,14,28,Right-arm medium,4.1,16
+5657914,Manoop Gopalan,9428609,Hanau Pioneers,1,1,2,12,2,7.00,6.00,0,7,14,Right-arm fast,2.0,8
+31742571,Venkatesh Sanem,6290732,TSV Frankfurt Garuda,3,1,2,12,2,7.50,6.00,0,7.5,15,Right-arm medium,2.0,6
+31775739,Siddhesh Patil,9491502,Mighty Titans,3,1,2,12,2,7.50,6.00,0,7.5,15,Right-arm medium,2.0,8
+36328396,Abhiman Gaurav,9491502,Mighty Titans,2,2,2,12,2,7.50,6.00,0,7.5,15,Right-arm medium,2.0,7
+38929971,Akash Muthanna,9435425,SG Malchen,3,2,2,24,1,7.50,12.00,0,15,30,Right-arm medium,4.0,12
+31707141,Ahtasham Kang,7424272,Freizeit CC,3,3,2,18,1,7.67,9.00,0,11.5,23,Right-arm fast,3.0,10
+23665358,Balaji Ramaraj,6290732,TSV Frankfurt Garuda,3,3,2,36,1,8.17,18.00,0,24.5,49,Right-arm medium,6.0,13
+38610262,Rakesh Chilveri,7424272,Freizeit CC,2,2,2,18,1,8.33,9.00,0,12.5,25,Right-arm medium,3.0,9
+3278437,Iniyan Panneerselvan,430654,Royal Strikers FFM,3,3,2,30,2,9.00,15.00,0,22.5,45,Right-arm medium,5.0,11
+12768994,Ravi Maheshwari,2204871,MSC Black Bears,3,3,2,36,1,9.00,18.00,0,27,54,Right-arm medium,6.0,15
+39006591,Hamadh Khan,7415121,MSC Achievers 11,3,3,2,36,1,9.00,18.00,1,27,54,Left-arm fast,6.0,21
+32195477,Saif Ur Rehman,7442593,AMU Sultans,4,4,2,42,1,9.00,21.00,0,31.5,63,Right-arm fast,7.0,18
+28007361,Yogesh Dhariyal,6290732,TSV Frankfurt Garuda,3,3,2,36,1,9.17,18.00,0,27.5,55,Right-arm fast,6.0,16
+23269799,Nikhil Sharma,7437045,Hawk Hunters,2,2,2,18,2,9.33,9.00,0,14,28,Left-arm medium,3.0,11
+31976623,Asad Shinwari,2114868,SVS Frankfurt Eagles,7,2,2,18,2,9.33,9.00,0,14,28,Right-arm medium,3.0,7
+11053192,Deep Shah,7424272,Freizeit CC,3,3,2,36,2,9.33,18.00,0,28,56,Right-arm fast,6.0,12
+3278586,Chirag Oberoi,806595,Juggernaut Cricket Club,4,4,2,42,1,9.71,21.00,0,34,68,Right-arm medium,7.0,15
+31838682,Rashid Ahamd,9436054,RCB,3,3,2,30,1,9.80,15.00,0,24.5,49,Right-arm medium,5.0,14
+36478281,Amal P S,1517508,Frankfurt Spartans Cricket Club,4,2,2,12,2,10.00,6.00,1,10,20,Right-arm fast,2.0,7
+5657923,Hari P,7415125,Sulzbach XI,3,3,2,30,1,10.00,15.00,0,25,50,Right-arm medium,5.0,17
+32648997,Avinash Kolagunda Chandrashekar,9435425,SG Malchen,3,3,2,30,2,10.40,15.00,0,26,52,Right-arm medium,5.0,12
+22371420,Ravi Gangula Dbag,4674227,BlueWings,3,3,2,24,2,10.50,12.00,0,21,42,Right-arm fast,4.0,11
+10263095,Khandaker Mosaddik Bin Hafiz,8007462,SV Tigers am Main,3,3,2,24,2,10.75,12.00,0,21.5,43,Right-arm fast,4.0,8
+16115282,Shamil,6941365,Karlsruhe Knights,4,3,2,30,1,11.00,15.00,0,27.5,55,Right-arm fast,5.0,12
+27925432,Neelam Nagaraj,430802,Tgs Indian Challengers,5,2,2,14,2,11.57,7.00,0,13.5,27,Right-arm medium,2.2,6
+22378241,Raju Palakurla,4674227,BlueWings,3,3,2,30,2,11.80,15.00,0,29.5,59,Right-arm fast,5.0,13
+31713304,Imran Ahmed,7442593,AMU Sultans,2,2,2,12,2,12.00,6.00,0,12,24,Right-arm fast,2.0,5
+938583,Chandan Kumar Pradhan,7437938,FalconsXI,4,2,2,9,2,12.67,4.50,0,9.5,19,Right-arm medium,1.3,5
+4871145,Lalit Sharma,806595,Juggernaut Cricket Club,4,3,2,18,1,12.67,9.00,0,19,38,Right-arm medium,3.0,5
+31980910,Het Naik,9435425,SG Malchen,3,2,2,17,2,13.06,8.50,0,18.5,37,Right-arm medium,2.5,8
+15217646,Umashankar,4674227,BlueWings,3,2,2,16,1,13.50,8.00,0,18,36,Right-arm fast,2.4,5
+28426736,Khalid Mohammed,2114868,SVS Frankfurt Eagles,5,2,2,18,2,15.00,9.00,0,22.5,45,Right-arm medium,3.0,5
+31769244,Bhim Reddy,9435425,SG Malchen,3,3,2,25,2,15.60,12.50,0,32.5,65,Right-arm medium,4.1,11
+5632288,Baharul,8007462,SV Tigers am Main,2,2,2,12,1,16.00,6.00,0,16,32,Right-arm fast,2.0,4
+36347700,Amogh K,9491502,Mighty Titans,3,3,2,24,1,17.25,12.00,0,34.5,69,Right-arm medium,4.0,6
+12822789,Anish Sachdeva,3793721,Trebur Cricket Club,4,1,1,6,1,1.00,6.00,0,1,1,Right-arm medium,1.0,5
+38610196,Premjit,7437938,FalconsXI,4,1,1,4,1,1.50,4.00,0,1,1,Right-arm medium,0.4,3
+27926390,Abdul Waseh Khawaja,430802,Tgs Indian Challengers,3,3,1,36,1,3.00,36.00,0,18,18,Right-arm fast,6.0,19
+38718499,Gowtham Thotapalli,3642022,FCC Friends XI,5,1,1,12,1,4.50,12.00,0,9,9,-,2.0,8
+31627751,Suhas Rao,9435425,SG Malchen,3,1,1,6,1,5.00,6.00,0,5,5,Right-arm medium,1.0,4
+27958100,Charles Vincent,1517508,Frankfurt Spartans Cricket Club,3,2,1,12,1,5.00,12.00,0,10,10,Right-arm Leg Break,2.0,8
+31707540,Shashank Chalak,9304922,Wetzlar Sixers,4,2,1,12,1,5.00,12.00,0,10,10,Right-arm medium,2.0,6
+3277609,Baskar Ayyappa,3793721,Trebur Cricket Club,4,2,1,18,1,5.67,18.00,0,17,17,Right-arm medium,3.0,8
+12342906,Rahul Shinde,9390582,TSGN Royal Lions,3,2,1,24,1,5.75,24.00,0,23,23,Right-arm medium,4.0,17
+32000843,Umer Pthn 2n Rcb,9436054,RCB,3,3,1,24,1,6.00,24.00,0,24,24,Right-arm fast,4.0,12
+31632779,Manik Roy,9435425,SG Malchen,3,2,1,18,1,6.33,18.00,0,19,19,Right-arm fast,3.0,9
+12798662,Vasanth Ramar,7424272,Freizeit CC,3,3,1,36,1,6.33,36.00,0,38,38,Right-arm medium,6.0,19
+19059369,Noman Raja,7437045,Hawk Hunters,4,1,1,12,1,6.50,12.00,0,13,13,Right-arm medium,2.0,7
+11059267,Abhilash,7440693,TSV Darmstadt XI,2,1,1,6,1,7.00,6.00,0,7,7,Right-arm fast,1.0,4
+765882,Shibin,1517508,Frankfurt Spartans Cricket Club,4,4,1,38,1,7.26,38.00,0,46,46,Right-arm fast,6.2,19
+31709761,Rushikesh Ravindra Yadav,7440693,TSV Darmstadt XI,7,3,1,18,1,7.33,18.00,0,22,22,Right-arm medium,3.0,7
+4875522,Pranjal Sharma,806595,Juggernaut Cricket Club,4,3,1,13,1,7.38,13.00,0,16,16,Right-arm fast,2.1,5
+31775813,Virender Singh Sahu,9491502,Mighty Titans,2,2,1,12,1,7.50,12.00,0,15,15,Right-arm medium,2.0,2
+5894321,Atiq Awan,3642022,FCC Friends XI,5,2,1,3,1,8.00,3.00,0,4,4,Right-arm medium,0.3,2
+3281686,Vamsi Sreevuru,3642022,FCC Friends XI,3,2,1,12,1,8.00,12.00,0,16,16,Right-arm fast,2.0,6
+29807641,Abdul Waseh Khawaja,430802,Tgs Indian Challengers,2,1,1,12,1,8.00,12.00,0,16,16,Right-arm fast,2.0,6
+20712849,Shubham Bhatt,4220557,TSGN Royal Warriors,3,3,1,36,1,8.33,36.00,0,50,50,Right-arm medium,6.0,16
+38869455,Kajen Pforzheim,6941365,Karlsruhe Knights,3,3,1,30,1,8.60,30.00,1,43,43,Right-arm medium,5.0,15
+27911427,Tushar Benke,806595,Juggernaut Cricket Club,4,4,1,46,1,8.74,46.00,0,67,67,Left-arm medium,7.4,18
+21938341,Roshan,7415125,Sulzbach XI,3,1,1,12,1,9.00,12.00,0,18,18,Right-arm medium,2.0,4
+31713336,Zeeshan Alam,7442593,AMU Sultans,1,1,1,12,1,9.00,12.00,0,18,18,Right-arm fast,2.0,6
+10359969,Amanullah Khan,9434097,Darebulls,3,3,1,30,1,9.00,30.00,0,45,45,Right-arm fast,5.0,14
+10384575,Lalitesh,7424272,Freizeit CC,3,3,1,24,1,9.25,24.00,0,37,37,Right-arm Off Break,4.0,7
+27966622,Sadam Zadran,7437045,Hawk Hunters,2,2,1,24,1,9.50,24.00,0,38,38,Right-arm fast,4.0,11
+30491637,Fahim Talukdar,8007462,SV Tigers am Main,3,2,1,24,1,9.50,24.00,0,38,38,Right-arm Off Break,4.0,7
+22157027,Samuel Ajay Dasgupta,430654,Royal Strikers FFM,4,2,1,18,1,10.00,18.00,0,30,30,Right-arm Off Break,3.0,5
+4467796,Mukul B,9436054,RCB,3,3,1,30,1,10.00,30.00,0,50,50,Right-arm fast,5.0,12
+578529,Vinod Iyer,6269379,TGS Rising Challengers,3,3,1,30,1,10.20,30.00,0,51,51,Slow left-arm chinaman,5.0,11
+13489587,Gowthamraj Selvaraj,430654,Royal Strikers FFM,1,1,1,12,1,11.00,12.00,0,22,22,Right-arm medium,2.0,8
+27926882,Sumit Revankar,6269379,TGS Rising Challengers,2,2,1,12,1,11.00,12.00,0,22,22,Right-arm medium,2.0,2
+32060815,Hari Bandi,3642022,FCC Friends XI,2,2,1,18,1,11.00,18.00,0,33,33,Right-arm medium,3.0,6
+39037388,Jitendra Balwada,9436054,RCB,3,3,1,26,1,11.08,26.00,0,48,48,Right-arm medium,4.2,12
+53859,Krunal Raval,9434097,Darebulls,3,3,1,30,1,11.20,30.00,0,56,56,Right-arm medium,5.0,12
+1311968,Shantanu Dutta,3642022,FCC Friends XI,3,1,1,6,1,12.00,6.00,0,12,12,Right-arm medium,1.0,1
+3260937,Arpit Jain,9390582,TSGN Royal Lions,3,1,1,6,1,12.00,6.00,0,12,12,Right-arm medium,1.0,3
+30369007,Shubham Thakur,9434097,Darebulls,3,2,1,12,1,12.00,12.00,0,24,24,Right-arm medium,2.0,5
+31742086,Ramgopal Balijepalli,430654,Royal Strikers FFM,4,2,1,15,1,12.40,15.00,0,31,31,Right-arm medium,2.3,3
+21557309,Kailash Kant Swarnkar,7415121,MSC Achievers 11,3,3,1,36,1,12.83,36.00,0,77,77,Right-arm fast,6.0,12
+31700130,Sarathi Kumar,7415121,MSC Achievers 11,3,1,1,6,1,13.00,6.00,0,13,13,Right-arm medium,1.0,2
+31950532,Rizwan Khan,2114868,SVS Frankfurt Eagles,5,3,1,24,1,13.00,24.00,0,52,52,Right-arm medium,4.0,9
+12822690,Ali Syed,6269379,TGS Rising Challengers,2,2,1,23,1,13.04,23.00,0,50,50,Right-arm medium,3.5,9
+31708546,Zeesan Ahmed,7437938,FalconsXI,4,3,1,18,1,13.67,18.00,0,41,41,Right-arm fast,3.0,9
+28329910,Irfan Muhammad,7437938,FalconsXI,3,3,1,18,1,14.00,18.00,0,42,42,Right-arm medium,3.0,8
+26421588,Priyank,9491502,Mighty Titans,3,3,1,32,1,14.81,32.00,0,79,79,Right-arm medium,5.2,11
+18388331,Komal Theja,3642022,FCC Friends XI,2,1,1,6,1,15.00,6.00,0,15,15,Right-arm fast,1.0,3
+31976575,Khalid Khan,9434097,Darebulls,3,1,1,6,1,15.00,6.00,0,15,15,Right-arm fast,1.0,1
+38093821,Hannan,7442593,AMU Sultans,4,1,1,12,1,15.00,12.00,0,30,30,-,2.0,5
+2944837,Mandeep Singh Sandhu,7437045,Hawk Hunters,4,1,1,12,1,18.00,12.00,0,36,36,Right-arm fast,2.0,5
+33436899,Peter Paul,7989971,Mainz Cricket Club,3,3,1,30,1,18.40,30.00,0,92,92,Right-arm medium,5.0,7
+20338014,Tanmay Gorad,2623314,TSV Darmstadt United,1,1,1,6,1,20.00,6.00,0,20,20,Left-arm medium,1.0,1
+298478,Narender Yadav,1517508,Frankfurt Spartans Cricket Club,3,1,0,6,0,2.00,0.00,0,0,2,Right-arm medium,1.0,6
+31919159,Barkat Ali,7437045,Hawk Hunters,1,1,0,12,0,5.00,0.00,0,0,10,Right-arm medium,2.0,5
+22372457,Bharath Mukunda,4674227,BlueWings,3,1,0,6,0,6.00,0.00,0,0,6,Right-arm medium,1.0,4
+33529029,Adeel Musadiq,7437938,FalconsXI,1,1,0,6,0,6.00,0.00,0,0,6,Right-arm medium,1.0,3
+3278425,Nirmalbaskar,430654,Royal Strikers FFM,4,1,0,6,0,7.00,0.00,0,0,7,Right-arm fast,1.0,4
+5661111,Guru Gadiwaddar,3793721,Trebur Cricket Club,1,1,0,12,0,7.50,0.00,0,0,15,Right-arm medium,2.0,4
+38212866,Mayank Panchal,9390582,TSGN Royal Lions,3,3,0,30,0,7.80,0.00,0,0,39,Left-arm medium,5.0,19
+10104777,Sainava Teja,430802,Tgs Indian Challengers,4,2,0,18,0,8.00,0.00,0,0,24,Right-arm medium,3.0,7
+3319861,Atharva More(om),9434097,Darebulls,3,1,0,6,0,9.00,0.00,0,0,9,Right-arm fast,1.0,3
+5828523,Kuncham Manojkumar,6290732,TSV Frankfurt Garuda,3,3,0,30,0,9.00,0.00,0,0,45,Right-arm medium,5.0,14
+12803324,Lovdeep Gothra,7437045,Hawk Hunters,5,1,0,12,0,9.00,0.00,0,0,18,Right-arm medium,2.0,4
+5478464,Tom Thomas,1517508,Frankfurt Spartans Cricket Club,1,1,0,6,0,10.00,0.00,0,0,10,Right-arm medium,1.0,4
+23875328,Akhil Thomas,2114868,SVS Frankfurt Eagles,2,1,0,6,0,10.00,0.00,0,0,10,Right-arm fast,1.0,2
+28329959,Ali Raza,7437938,FalconsXI,1,1,0,6,0,10.00,0.00,0,0,10,Right-arm fast,1.0,2
+31005552,Nithin Kumar,6941365,Karlsruhe Knights,1,1,0,6,0,10.00,0.00,0,0,10,Right-arm fast,1.0,1
+31827025,Indeerjeet Singh,6290732,TSV Frankfurt Garuda,1,1,0,6,0,10.00,0.00,0,0,10,Right-arm medium,1.0,3
+13504911,Muneeb Ullah,3793721,Trebur Cricket Club,4,2,0,18,0,10.67,0.00,0,0,32,Right-arm fast,3.0,3
+38484035,Devang Odedra,9390582,TSGN Royal Lions,2,1,0,5,0,10.80,0.00,0,0,9,Right-arm medium,0.5,1
+38681958,Raheel Goldstein Cric,7437938,FalconsXI,1,1,0,12,0,11.50,0.00,0,0,23,Left-arm medium,2.0,3
+3056241,Shubham Kalra,9434097,Darebulls,3,2,0,18,0,11.67,0.00,0,0,35,Right-arm medium,3.0,5
+26400435,Shaik Maqsood,9491502,Mighty Titans,3,3,0,18,0,11.67,0.00,0,0,35,Right-arm Off Break,3.0,3
+37943331,Khan Ikram,9304922,Wetzlar Sixers,6,1,0,6,0,12.00,0.00,0,0,12,Right-arm Off Break,1.0,1
+31779491,Sujish Suresh Kumar,9491502,Mighty Titans,2,2,0,12,0,12.50,0.00,0,0,25,-,2.0,3
+22213510,Vishvajeet Tandale,7415125,Sulzbach XI,3,2,0,18,0,12.67,0.00,0,0,38,Right-arm medium,3.0,7
+839464,Harender Crick,6941365,Karlsruhe Knights,3,1,0,6,0,13.00,0.00,0,0,13,Right-arm medium,1.0,1
+28041893,Vivek Purohit,7437045,Hawk Hunters,2,1,0,6,0,13.00,0.00,0,0,13,Right-arm medium,1.0,3
+31709679,Gurjinder Singh,7437045,Hawk Hunters,3,1,0,6,0,13.00,0.00,0,0,13,Left-arm fast,1.0,2
+31976577,Muhammad Iqbal,9434097,Darebulls,1,1,0,6,0,13.00,0.00,0,0,13,Right-arm medium,1.0,2
+28523657,Nikhil Narottam,6269379,TGS Rising Challengers,3,3,0,24,0,13.25,0.00,0,0,53,Right-arm medium,4.0,9
+31731649,Nikhil Yadav,2204871,MSC Black Bears,3,3,0,24,0,13.75,0.00,0,0,55,Right-arm fast,4.0,8
+31709736,Saad Ahmad,7442593,AMU Sultans,4,4,0,19,0,13.89,0.00,0,0,44,Right-arm fast,3.1,3
+38740046,Tanmay Sarbadhyaksha,9434097,Darebulls,3,2,0,9,0,14.00,0.00,0,0,21,Right-arm medium,1.3,0
+5677576,Sumanth Pulluru,2623314,TSV Darmstadt United,3,1,0,6,0,16.00,0.00,0,0,16,Right-arm medium,1.0,2
+31717293,Sudhanshu Kumar,6290732,TSV Frankfurt Garuda,3,1,0,6,0,16.00,0.00,0,0,16,Right-arm medium,1.0,3
+38698051,Mathew Alex,7989971,Mainz Cricket Club,3,3,0,14,0,16.29,0.00,0,0,38,Right-arm fast,2.2,6
+38851699,Vivek Shankar,9428609,Hanau Pioneers,4,1,0,11,0,16.91,0.00,0,0,31,Right-arm fast,1.5,6
+33438132,Sarath Menon,7989971,Mainz Cricket Club,3,3,0,22,0,17.18,0.00,0,0,63,Right-arm fast,3.4,4
+31713333,Wasiq Khursheed,7442593,AMU Sultans,2,1,0,6,0,18.00,0.00,0,0,18,Right-arm medium,1.0,2
+33447681,Jomon,7989971,Mainz Cricket Club,3,3,0,32,0,18.94,0.00,0,0,101,Right-arm fast,5.2,7
+5600861,Varun C,9435425,SG Malchen,3,1,0,6,0,20.00,0.00,0,0,20,Right-arm medium,1.0,0
+38158525,Imran Khan,9304922,Wetzlar Sixers,3,1,0,6,0,20.00,0.00,0,0,20,Right-arm fast,1.0,0
+38347277,Adeel Muhammad,6269379,TGS Rising Challengers,1,1,0,12,0,20.00,0.00,0,0,40,Right-arm fast,2.0,2
+14886437,Anand Reddy Nallapapireddigari,2623314,TSV Darmstadt United,3,1,0,6,0,21.00,0.00,0,0,21,Right-arm medium,1.0,1
+27926891,Aravindan Kumar,6269379,TGS Rising Challengers,3,2,0,8,0,21.75,0.00,0,0,29,Right-arm fast,1.2,2
+19142967,Sumant Chahar,6269379,TGS Rising Challengers,3,1,0,6,0,23.00,0.00,0,0,23,Right-arm medium,1.0,0
+32373429,Ar Shuvo,8007462,SV Tigers am Main,3,1,0,6,0,23.00,0.00,0,0,23,Right-arm Off Break,1.0,0
+20719379,Mihir Gohel,4220557,TSGN Royal Warriors,2,1,0,1,0,24.00,0.00,0,0,4,Left-arm medium,0.1,0
+21791633,Satya Chekka,6941365,Karlsruhe Knights,2,1,0,6,0,26.00,0.00,0,0,26,Right-arm medium,1.0,1
+27923553,Dayakar Reddy Bayyam,6290732,TSV Frankfurt Garuda,3,1,0,3,0,32.00,0.00,0,0,16,Right-arm medium,0.3,0
+331878,Ankit Tomar,7415121,MSC Achievers 11,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+744616,Navin Dhamecha,7356382,SPVGG Dragons,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+760039,Ananda Suryan,1517508,Frankfurt Spartans Cricket Club,1,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+841517,Jaan,9436054,RCB,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+1025012,Praveen Shukla,3642022,FCC Friends XI,2,0,,,,0.00,0.00,0,0,0,Right-arm Leg Break,0.0,0
+1168467,Sk,7440693,TSV Darmstadt XI,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+1973378,Satendra Chaudhary,806595,Juggernaut Cricket Club,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+2302435,Abhinav,7356382,SPVGG Dragons,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+2467546,Yeshwanth Chandrashekar,7440693,TSV Darmstadt XI,7,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+2607432,Ankur Tyagi,7356382,SPVGG Dragons,6,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+2766284,Abhijit Das,4814191,TBG Neulussheim,1,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+2827167,Uday Kumar Bandaru,4814191,TBG Neulussheim,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+2913059,Waleed,7437938,FalconsXI,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+2914293,Jibin M John,2114868,SVS Frankfurt Eagles,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3112619,Rajkumar (shunmu),7415125,Sulzbach XI,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3139022,Essakki,7415125,Sulzbach XI,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3173352,Rakesh Thimmegowda,430654,Royal Strikers FFM,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3237080,Ajay Kumar Bharath Kumar,430802,Tgs Indian Challengers,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+3261014,Yogesh Jagtap,2204871,MSC Black Bears,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3274978,Arun Balasubramanian,3642022,FCC Friends XI,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3277576,Pankaj Jha,806595,Juggernaut Cricket Club,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+3279016,Rohitcric,7440693,TSV Darmstadt XI,1,0,,,,0.00,0.00,0,0,0,None,0.0,0
+3279214,Gurmail Singh,806595,Juggernaut Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3279377,Akhil Bhadran,6941365,Karlsruhe Knights,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3279430,Darshan Parameswara,430802,Tgs Indian Challengers,5,0,,,,0.00,0.00,0,0,0,None,0.0,0
+3281202,Miral Gajjar,1517508,Frankfurt Spartans Cricket Club,1,0,,,,0.00,0.00,0,0,0,Left-arm medium,0.0,0
+3283006,Varun Gada,9434097,Darebulls,2,0,,,,0.00,0.00,0,0,0,Slow left-arm orthodox,0.0,0
+3323501,Pradeep,430654,Royal Strikers FFM,4,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+3335835,Omkar Pai,9390582,TSGN Royal Lions,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+4655513,Smeet Shah,7356382,SPVGG Dragons,2,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+5466900,Ajay Sb,7415121,MSC Achievers 11,1,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+5480703,Suriya Prakash,430802,Tgs Indian Challengers,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5502847,Arpit Samani,9390582,TSGN Royal Lions,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+5505495,Mumtaz Ali,7437938,FalconsXI,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+5527584,Adepa Naidu,2623314,TSV Darmstadt United,3,0,,,,0.00,0.00,0,0,0,Right-arm Leg Break,0.0,0
+5630537,Chandrasekharan Rajendran,430654,Royal Strikers FFM,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5630601,Sunil Patil,2204871,MSC Black Bears,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5639534,Mani,7440693,TSV Darmstadt XI,7,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5639931,Mithun Rajanna,7440693,TSV Darmstadt XI,7,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5640951,Jayasimha Varma Kucharlapati,2623314,TSV Darmstadt United,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5645589,Md Imran Hossain,8007462,SV Tigers am Main,1,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+5655192,Girish Manmode,3793721,Trebur Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+5655195,Shivanand,9436054,RCB,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+5655236,Syed Khalander Pasha,4220557,TSGN Royal Warriors,3,0,,,,0.00,0.00,0,0,0,None,0.0,0
+9195963,Goutam Kumar Saha,8007462,SV Tigers am Main,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+9332441,Indrajit,6941365,Karlsruhe Knights,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+9734068,D V Mohan Krishna,3793721,Trebur Cricket Club,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+9739712,Ravinder Reddy,3793721,Trebur Cricket Club,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+10227222,Saurabh Dubey,4814191,TBG Neulussheim,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+10708263,Amit,9428609,Hanau Pioneers,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+10718499,Vaibhav Sareen,806595,Juggernaut Cricket Club,4,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+11529886,Amit Naidu,9434097,Darebulls,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+12765272,Vinayak Pattanshetti,9428609,Hanau Pioneers,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+12791022,Chandrashekar Umapathi,7356382,SPVGG Dragons,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+12874241,Sivakumar,3793721,Trebur Cricket Club,4,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+12894508,Vikalp Kaushik,806595,Juggernaut Cricket Club,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+13043353,Emptyab1573,9434097,Darebulls,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+13287601,Abhilash Thengullathil,1517508,Frankfurt Spartans Cricket Club,2,0,,,,0.00,0.00,0,0,0,Slow left-arm chinaman,0.0,0
+13816117,Rohith Kb,1517508,Frankfurt Spartans Cricket Club,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+14886259,Jithu Paul,6941365,Karlsruhe Knights,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+14886410,Sanjeet Lamichhane,2623314,TSV Darmstadt United,1,0,,,,0.00,0.00,0,0,0,Left-arm medium,0.0,0
+14895038,Dipesh Khadka,2623314,TSV Darmstadt United,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+16483699,Shashank Bayari,4814191,TBG Neulussheim,5,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+16493774,Ujjwal Kumar,4814191,TBG Neulussheim,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+18679127,Waled Khan,2114868,SVS Frankfurt Eagles,5,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+19010055,Siddharth Sharma,2204871,MSC Black Bears,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+19037092,Satish Kumar,2204871,MSC Black Bears,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+19041512,Chakradhar Akkaldevi 15,3793721,Trebur Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+19192429,Manikanteswar Reddy Goluguri,7440693,TSV Darmstadt XI,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+20173494,Manish,2204871,MSC Black Bears,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+20710409,Jigar Rajeshkumar Modi,4220557,TSGN Royal Warriors,3,0,,,,0.00,0.00,0,0,0,Left-arm medium,0.0,0
+20710931,Mohd Akram,4220557,TSGN Royal Warriors,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+20711188,Hemant Patil,4220557,TSGN Royal Warriors,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+20719400,Aamod Kulkarni,4220557,TSGN Royal Warriors,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+20848174,Nikunj Prajapati,4220557,TSGN Royal Warriors,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+20969823,Rizwan,8007462,SV Tigers am Main,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+21359164,Manish,9390582,TSGN Royal Lions,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+21453255,Sharad S,7415121,MSC Achievers 11,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+21593102,Nandan Kumar,7415121,MSC Achievers 11,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+22141206,Karthik Chickel,7415125,Sulzbach XI,3,0,,,,0.00,0.00,0,0,0,None,0.0,0
+22214133,Nikesh,7415125,Sulzbach XI,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+22371540,Ram Reddy Nallawar,4674227,BlueWings,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+22372347,Harish Kumar Pula,4674227,BlueWings,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+22372407,Naresh Ravirala,4674227,BlueWings,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+22416987,Akash Patni,7356382,SPVGG Dragons,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+22935420,Valan Joy,4674227,BlueWings,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+23394182,Prasad Bolishetti,7415125,Sulzbach XI,3,0,,,,0.00,0.00,0,0,0,Left-arm medium,0.0,0
+23500576,Hira Sarkar,8007462,SV Tigers am Main,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+23504450,Syed Mostain Ahmed,8007462,SV Tigers am Main,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+27925759,Arun Selva,430802,Tgs Indian Challengers,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+27926870,Senthil Kumaran,6269379,TGS Rising Challengers,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+27926874,Balaji Sevanan,6269379,TGS Rising Challengers,3,0,,,,0.00,0.00,0,0,0,Slow left-arm chinaman,0.0,0
+27934716,Balaji Krishna Murthy,6269379,TGS Rising Challengers,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+27966988,Rohit Jire,7437045,Hawk Hunters,4,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+28007258,Karthick Ramachandran,6290732,TSV Frankfurt Garuda,1,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+28007279,Chaitanya Nekkalapudi,6290732,TSV Frankfurt Garuda,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+28206444,Diljit Singh Kajal,6290732,TSV Frankfurt Garuda,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+28329954,Bilal Hazrat,7437938,FalconsXI,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+28363291,Praveen Shukla Fcc,3642022,FCC Friends XI,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+28363304,Vinay Nagappa Mana,3642022,FCC Friends XI,5,0,,,,0.00,0.00,0,0,0,-,0.0,0
+29263251,Dhawal Patel,4220557,TSGN Royal Warriors,2,0,,,,0.00,0.00,0,0,0,Right-arm Leg Break,0.0,0
+29263255,Apurv Chakor,4220557,TSGN Royal Warriors,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+29598176,Md Deluar Zahan Sobuj,8007462,SV Tigers am Main,2,0,,,,0.00,0.00,0,0,0,Right-arm Leg Break,0.0,0
+30621030,Vivek Patel Cricket,7437045,Hawk Hunters,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+30627461,Murtaza Bhatti,6941365,Karlsruhe Knights,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+30903514,Srinivasan Rs,6941365,Karlsruhe Knights,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31068747,Deepak Bhardwaj,7424272,Freizeit CC,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31113661,Giriyachar Koppar,9436054,RCB,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31223036,Nitin Singh,9491502,Mighty Titans,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31435913,Shreyas Friedberg,7356382,SPVGG Dragons,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31451578,Sukumar Mohan,7415125,Sulzbach XI,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31510704,Jayesh Germany,7356382,SPVGG Dragons,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31627765,Alok Ranjan,7415121,MSC Achievers 11,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31631810,Akarsh H,1517508,Frankfurt Spartans Cricket Club,4,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31635261,Shama Sundar,9435425,SG Malchen,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31639944,Kuldeep G,430802,Tgs Indian Challengers,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31649154,Smruti Ranjan Panda,7437045,Hawk Hunters,5,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31655023,Dev Kolte Fcc De,7424272,Freizeit CC,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31655031,Bhardwaj Vipin Fcc,7424272,Freizeit CC,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31655083,Kapil Yadav,7424272,Freizeit CC,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31655388,Charan Ronanki,6290732,TSV Frankfurt Garuda,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31692655,Abdul Ghaffar,2623314,TSV Darmstadt United,1,0,,,,0.00,0.00,0,0,0,Left-arm medium,0.0,0
+31697606,Raju Lama,9304922,Wetzlar Sixers,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31700209,Sumit Das,7437938,FalconsXI,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31705966,Aniket Chatterjee,430802,Tgs Indian Challengers,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31706324,Waqas Qasim,9304922,Wetzlar Sixers,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31706379,Firoz Khan,6269379,TGS Rising Challengers,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+31706407,Yogesh Veeraraj,6269379,TGS Rising Challengers,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31708537,Hemendra Goswami,7437938,FalconsXI,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31708538,Ibrahim Hanif,7437938,FalconsXI,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31710043,Ibrahim Zadran,7437045,Hawk Hunters,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31713305,Faraz Islam,7442593,AMU Sultans,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31713307,Ajax Mohamed,7442593,AMU Sultans,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31713319,Sheikh Suleman,7442593,AMU Sultans,1,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31713325,Haseeb Khan,7442593,AMU Sultans,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31713335,Atif Beg,7442593,AMU Sultans,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31713340,Muzammil Khan,7442593,AMU Sultans,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31742127,Sudheer Vasamshetty,430654,Royal Strikers FFM,1,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31742479,Pavan Kumar Kurra,6290732,TSV Frankfurt Garuda,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31747786,Shashi Kiran,7437938,FalconsXI,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31773042,Prajwal Hegde,7440693,TSV Darmstadt XI,7,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31920798,Ragunathan S,3793721,Trebur Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31943509,Anand Philipson,430802,Tgs Indian Challengers,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31950672,Justin Jose,2114868,SVS Frankfurt Eagles,4,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31950788,Muhammad Faisal,2114868,SVS Frankfurt Eagles,7,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31956143,Bush Germany Cricket,1517508,Frankfurt Spartans Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31975346,Danial,7437045,Hawk Hunters,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31975942,Sudhakar Tadikonda,7424272,Freizeit CC,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31976073,Srinivas Akkineni,7356382,SPVGG Dragons,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31976646,Syed Agah,9434097,Darebulls,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31982831,Anoop Kiran,7356382,SPVGG Dragons,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+32034949,Pavan Arava,9491502,Mighty Titans,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+32039398,Praveen Kumar Balaraj,4814191,TBG Neulussheim,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+32080750,Rehan Ahmed Raja,7437045,Hawk Hunters,1,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+32100774,Santosh Sharma,806595,Juggernaut Cricket Club,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+32191871,Ambarish Vadher,9390582,TSGN Royal Lions,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+33418411,Ramesh Raveendran,7989971,Mainz Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+33438133,Arun James,7989971,Mainz Cricket Club,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+33447675,Arun Lawrence,7989971,Mainz Cricket Club,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+33447676,Dantas,7989971,Mainz Cricket Club,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+34046509,Kartheek Kedaginamane,9428609,Hanau Pioneers,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+34046580,Sudesh Singh,9428609,Hanau Pioneers,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+34046581,Abhishek Kasana,9428609,Hanau Pioneers,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+34046591,Sandeep Gorrey,9428609,Hanau Pioneers,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+34046652,Parthiban Rengaraj,9428609,Hanau Pioneers,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+37005192,Mahendra Silveri,4814191,TBG Neulussheim,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+37943330,Hussin,9304922,Wetzlar Sixers,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+37943333,Sahi Sheru,9304922,Wetzlar Sixers,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+37943863,Shahmalang,9304922,Wetzlar Sixers,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+37944905,Khalid,9304922,Wetzlar Sixers,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38057047,Manisharma,3793721,Trebur Cricket Club,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38093818,Ehsan,7442593,AMU Sultans,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38170068,Sahil Zabiullah,9304922,Wetzlar Sixers,6,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+38211959,Kuldeep Choudhary,9390582,TSGN Royal Lions,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38213103,Indrajeet Rajput,9390582,TSGN Royal Lions,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38352491,Shiv Chander Vohra,6290732,TSV Frankfurt Garuda,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38355011,Christian Franco,9428609,Hanau Pioneers,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38357660,Milind Dange,9428609,Hanau Pioneers,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38376536,Rahul Cricket Germany,9436054,RCB,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38376541,Nabeel Rüss Cric,9436054,RCB,3,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+38378950,Surender Singh,806595,Juggernaut Cricket Club,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38504716,Imtiaz,7442593,AMU Sultans,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38542263,Adi Cricket,6941365,Karlsruhe Knights,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38572724,Bishesh Jyoti Naik,9491502,Mighty Titans,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38580378,Vinay Gaurdians Whatsapp,9436054,RCB,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38588314,Vedant Zalke,9491502,Mighty Titans,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+38588547,Amruth Gowda,9491502,Mighty Titans,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38599266,Hitesh Bindal,9491502,Mighty Titans,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38608337,Hamed Urakheil,2114868,SVS Frankfurt Eagles,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38619543,Manoharan Thambi,7424272,Freizeit CC,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38657976,Pasupathi Rajendran,7424272,Freizeit CC,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+38661598,Sudharsan Srinivasan,7424272,Freizeit CC,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+38701574,Praveen V,9434097,Darebulls,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38703264,Selvakumar Selvaraj,7424272,Freizeit CC,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38719581,Shine Thomas,7989971,Mainz Cricket Club,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38719583,Kannan Viswambharan,7989971,Mainz Cricket Club,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38786146,Akash Ghulghule,2204871,MSC Black Bears,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38796186,Kaushik Keni,9491502,Mighty Titans,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38843283,Prithiv Ramvasan Vetri Selvan,430654,Royal Strikers FFM,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+38843288,Tharun Ramvasan Vetri Selvan,430654,Royal Strikers FFM,3,0,,,,0.00,0.00,0,0,0,None,0.0,0
+38929965,Madhusudan Gowda,9435425,SG Malchen,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38929967,Chandan Gururaj,9435425,SG Malchen,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38929969,Suhas Balaji,9435425,SG Malchen,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38931096,Chandra Bhushan,7415121,MSC Achievers 11,3,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38989616,Prasanna Kumar Reddy N,2623314,TSV Darmstadt United,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38991362,Prajval Patil,7415121,MSC Achievers 11,2,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38995772,Dawood Shoaib Khan,2623314,TSV Darmstadt United,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+39049456,Shahid Hussain Shaikh,9428609,Hanau Pioneers,1,0,,,,0.00,0.00,0,0,0,-,0.0,0

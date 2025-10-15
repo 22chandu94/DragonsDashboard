@@ -1,0 +1,105 @@
+player_id,name,team_id,team_name,total_match,innings,total_wickets,balls,highest_wicket,economy,SR,maidens,avg,runs,bowling_style,overs,dot_balls
+20712849,Shubham Bhatt,4220557,TSGN Royal Warriors,6,6,11,102,4,6.35,9.27,0,9.82,108,Right-arm medium,17.0,52
+31627777,Nipun K,7392287,DCC Rising Stars,4,4,11,72,4,7.42,6.55,1,8.09,89,Right-arm fast,12.0,40
+20710655,Shrenik Jain,4220557,TSGN Royal Warriors,4,4,10,71,4,9.21,7.10,0,10.9,109,Right-arm fast,11.5,33
+5502848,Jitendra Singh,9390582,TSGN Royal Lions,7,7,9,106,3,5.26,11.78,1,10.33,93,Right-arm medium,17.4,63
+38218709,Chirag Kankariya,9390582,TSGN Royal Lions,4,4,9,66,3,5.91,7.33,1,7.22,65,Right-arm fast,11.0,30
+38212866,Mayank Panchal,9390582,TSGN Royal Lions,6,6,9,78,3,6.46,8.67,1,9.33,84,Left-arm medium,13.0,49
+3260937,Arpit Jain,9390582,TSGN Royal Lions,7,7,9,56,2,7.61,6.22,0,7.89,71,Right-arm medium,9.2,27
+29718658,Shivakumar Hm,4220352,TSGN Titans,4,4,8,72,4,8.25,9.00,1,12.38,99,Right-arm fast,12.0,37
+20843255,Harsh Patel,4220557,TSGN Royal Warriors,7,7,8,94,2,8.87,11.75,0,17.38,139,Right-arm medium,15.4,43
+11066263,H Pavan Kumar,7356382,SPVGG Dragons,6,6,8,90,3,9.00,11.25,0,16.88,135,Right-arm medium,15.0,37
+3422841,Raj,4220352,TSGN Titans,6,6,8,96,3,9.69,12.00,0,19.38,155,Right-arm Leg Break,16.0,42
+3421291,Srihari Nandamuri,4220352,TSGN Titans,6,5,7,78,2,6.62,11.14,0,12.29,86,Right-arm medium,13.0,41
+31638527,Manoj Shukla,7392287,DCC Rising Stars,5,5,7,90,2,7.40,12.86,0,15.86,111,Right-arm medium,15.0,45
+31627748,Aakash Parmar,4220557,TSGN Royal Warriors,6,6,6,84,2,7.86,14.00,0,18.33,110,Right-arm fast,14.0,39
+38484035,Devang Odedra,9390582,TSGN Royal Lions,5,3,6,35,4,7.89,5.83,0,7.67,46,Right-arm medium,5.5,17
+31510876,Keshav Rao,7356382,SPVGG Dragons,6,6,6,90,2,8.07,15.00,0,20.17,121,Right-arm medium,15.0,40
+20719379,Mihir Gohel,4220557,TSGN Royal Warriors,6,5,6,46,3,11.61,7.67,0,14.83,89,Left-arm medium,7.4,19
+38367746,Santosh Upadhye,7356382,SPVGG Dragons,2,2,5,36,3,4.50,7.20,0,5.4,27,Right-arm fast,6.0,22
+29063790,Manoj Kumar,7356382,SPVGG Dragons,4,4,5,66,2,6.91,13.20,0,15.2,76,Right-arm fast,11.0,34
+20727167,Deepak Kumar Purseth,6591085,TSGN Mavericks,5,5,5,74,3,8.76,14.80,0,21.6,108,Right-arm medium,12.2,39
+5502863,Bharat Bandaru,4220352,TSGN Titans,6,6,5,78,2,11.77,15.60,0,30.6,153,Right-arm medium,13.0,30
+38213498,Sahil Vashishtha,9390582,TSGN Royal Lions,6,6,4,66,2,5.64,16.50,2,15.5,62,Right-arm Off Break,11.0,40
+29263251,Dhawal Patel,4220557,TSGN Royal Warriors,5,4,4,54,2,7.22,13.50,0,16.25,65,Right-arm Leg Break,9.0,23
+3277735,Ankit Joshi,4220352,TSGN Titans,5,5,4,69,2,8.96,17.25,1,25.75,103,Left-arm medium,11.3,31
+31704641,Mohit Maverick,9390582,TSGN Royal Lions,4,4,4,54,2,10.00,13.50,0,22.5,90,Right-arm fast,9.0,22
+29061009,Susheel Amingad,7356382,SPVGG Dragons,6,6,4,84,2,10.29,21.00,0,36,144,Right-arm fast,14.0,33
+31639860,Kaushik Sekar,7392287,DCC Rising Stars,5,5,4,84,2,10.50,21.00,0,36.75,147,Right-arm fast,14.0,40
+27915806,Ayush Vekariya,6591085,TSGN Mavericks,4,4,4,60,3,11.60,15.00,0,29,116,Right-arm medium,10.0,27
+5205780,Mausam Bhunia,6591085,TSGN Mavericks,5,5,3,83,1,6.29,27.67,0,29,87,Right-arm medium,13.5,49
+19275923,Chetan Sahil,4220352,TSGN Titans,5,4,3,60,2,7.60,20.00,0,25.33,76,Left-arm medium,10.0,29
+3283063,Humad Khan,6591085,TSGN Mavericks,3,3,3,54,2,8.22,18.00,1,24.67,74,Left-arm medium,9.0,28
+3283065,Praveen Nagol,4220352,TSGN Titans,6,3,3,36,2,9.67,12.00,0,19.33,58,Left-arm fast,6.0,17
+28640126,Adi,7356382,SPVGG Dragons,6,3,3,34,2,10.06,11.33,0,19,57,Right-arm fast,5.4,12
+31648603,Vaibhav Garhia,7392287,DCC Rising Stars,5,5,3,54,2,11.89,18.00,0,35.67,107,Right-arm fast,9.0,16
+12342906,Rahul Shinde,9390582,TSGN Royal Lions,4,4,3,60,1,12.00,20.00,0,40,120,Right-arm medium,10.0,25
+22646840,Siva Seelam,7392287,DCC Rising Stars,4,4,3,60,2,12.70,20.00,0,42.33,127,Right-arm fast,10.0,13
+20713334,Bhavik Pandya,4220557,TSGN Royal Warriors,1,1,2,12,2,2.00,6.00,1,2,4,Right-arm medium,2.0,8
+32191871,Ambarish Vadher,9390582,TSGN Royal Lions,7,2,2,18,1,6.00,9.00,0,9,18,Right-arm Off Break,3.0,10
+22988788,Ahsen Eltville,6591085,TSGN Mavericks,1,1,2,18,2,8.33,9.00,0,12.5,25,Right-arm fast,3.0,8
+457747,Viraj Shah,4220557,TSGN Royal Warriors,5,5,2,54,2,8.33,27.00,0,37.5,75,Left-arm fast,9.0,23
+9837507,Tanuj Sinha,9390582,TSGN Royal Lions,2,1,1,10,1,3.00,10.00,0,5,5,Left-arm medium,1.4,8
+20711188,Hemant Patil,4220557,TSGN Royal Warriors,5,2,1,15,1,6.00,15.00,0,15,15,Right-arm medium,2.3,6
+31646615,Samir Bhagat,7392287,DCC Rising Stars,1,1,1,6,1,7.00,6.00,0,7,7,Right-arm Off Break,1.0,3
+39530021,Naga Cricket,6591085,TSGN Mavericks,2,2,1,12,1,7.00,12.00,0,14,14,Right-arm medium,2.0,7
+31638536,Siva Rama Krishna Kurra,7392287,DCC Rising Stars,4,2,1,18,1,7.00,18.00,0,21,21,Right-arm medium,3.0,8
+14454653,Riswan,7356382,SPVGG Dragons,1,1,1,18,1,7.67,18.00,0,23,23,Right-arm fast,3.0,10
+1173568,Anshul,7356382,SPVGG Dragons,1,1,1,12,1,8.00,12.00,0,16,16,Right-arm fast,2.0,5
+31672697,Tushar Sharma,7392287,DCC Rising Stars,4,1,1,18,1,8.00,18.00,0,24,24,Right-arm medium,3.0,7
+12423573,Rishi,4220557,TSGN Royal Warriors,7,6,1,60,1,8.10,60.00,0,81,81,Right-arm fast,10.0,24
+39530009,Mahesh Naidu Cricket,6591085,TSGN Mavericks,2,1,1,19,1,8.21,19.00,0,26,26,Right-arm fast,3.1,10
+5502847,Arpit Samani,9390582,TSGN Royal Lions,5,3,1,29,1,8.90,29.00,0,43,43,Right-arm fast,4.5,14
+1144069,Rajasekhar,4220352,TSGN Titans,6,4,1,24,1,9.50,24.00,0,38,38,Right-arm medium,4.0,10
+38406659,Randeep Singh,7392287,DCC Rising Stars,5,4,1,42,1,11.29,42.00,0,79,79,Right-arm medium,7.0,15
+38493225,Saurabh Singh Cricket,6591085,TSGN Mavericks,4,4,1,49,1,11.51,49.00,0,94,94,Right-arm medium,8.1,18
+6099684,Sagar Rajguru,4220352,TSGN Titans,5,1,0,0,0,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+20727675,Mustafa Malik,6591085,TSGN Mavericks,3,2,0,18,0,7.33,0.00,0,0,22,Right-arm medium,3.0,8
+38529375,Amit Bhai Cricket Gmbh,6591085,TSGN Mavericks,4,2,0,12,0,8.00,0.00,0,0,16,Right-arm medium,2.0,6
+2302435,Abhinav,7356382,SPVGG Dragons,2,1,0,6,0,10.00,0.00,0,0,10,Right-arm medium,1.0,1
+38541684,Lavnish Sharma,7356382,SPVGG Dragons,4,4,0,48,0,10.50,0.00,0,0,84,Right-arm medium,8.0,16
+31715868,Vivek Kumar Chandel,7392287,DCC Rising Stars,4,1,0,6,0,12.00,0.00,0,0,12,Right-arm medium,1.0,3
+38490788,Ashutosh Yadav,6591085,TSGN Mavericks,5,1,0,2,0,12.00,0.00,0,0,4,Right-arm medium,0.2,1
+38369105,Naitik Yadav,6591085,TSGN Mavericks,2,1,0,6,0,17.00,0.00,0,0,17,Right-arm medium,1.0,2
+744616,Navin Dhamecha,7356382,SPVGG Dragons,3,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+2607432,Ankur Tyagi,7356382,SPVGG Dragons,6,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+3134141,Kavi Devraj,4220352,TSGN Titans,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3283064,Krishna A,7392287,DCC Rising Stars,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3283066,Aswin Pottayil,4220352,TSGN Titans,1,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+3335835,Omkar Pai,9390582,TSGN Royal Lions,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+3379075,Pavan,4220352,TSGN Titans,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+4053753,Krupal,4220352,TSGN Titans,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+4655513,Smeet Shah,7356382,SPVGG Dragons,5,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+5655236,Syed Khalander Pasha,4220557,TSGN Royal Warriors,5,0,,,,0.00,0.00,0,0,0,None,0.0,0
+7467346,Sanchit Mahajan,7356382,SPVGG Dragons,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+12791022,Chandrashekar Umapathi,7356382,SPVGG Dragons,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+18775928,Smit Kunjadiya,6591085,TSGN Mavericks,3,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+20710409,Jigar Rajeshkumar Modi,4220557,TSGN Royal Warriors,7,0,,,,0.00,0.00,0,0,0,Left-arm medium,0.0,0
+20710931,Mohd Akram,4220557,TSGN Royal Warriors,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+20713664,Deepak Lamba,7392287,DCC Rising Stars,3,0,,,,0.00,0.00,0,0,0,Slow left-arm orthodox,0.0,0
+20719400,Aamod Kulkarni,4220557,TSGN Royal Warriors,7,0,,,,0.00,0.00,0,0,0,-,0.0,0
+20800224,Parth Patel,4220557,TSGN Royal Warriors,1,0,,,,0.00,0.00,0,0,0,None,0.0,0
+20848174,Nikunj Prajapati,4220557,TSGN Royal Warriors,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+21359164,Manish,9390582,TSGN Royal Lions,6,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+27927054,Amith Nair,6591085,TSGN Mavericks,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+29060498,Anuj Arora Cricket,6591085,TSGN Mavericks,1,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+29060499,Tabish Cricket,6591085,TSGN Mavericks,5,0,,,,0.00,0.00,0,0,0,None,0.0,0
+29263255,Apurv Chakor,4220557,TSGN Royal Warriors,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+29375926,Sai Sagar Titans,4220352,TSGN Titans,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31510704,Jayesh Germany,7356382,SPVGG Dragons,4,0,,,,0.00,0.00,0,0,0,-,0.0,0
+31638541,Gali Venkat,7392287,DCC Rising Stars,1,0,,,,0.00,0.00,0,0,0,Right-arm Leg Break,0.0,0
+31646616,Abhishek Thula,7392287,DCC Rising Stars,4,0,,,,0.00,0.00,0,0,0,Right-arm Off Break,0.0,0
+31708712,Vignesh Wk,4220352,TSGN Titans,6,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31744692,Naufal Hameed,4220557,TSGN Royal Warriors,1,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31972819,Sudesh German,4220352,TSGN Titans,5,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+31976073,Srinivas Akkineni,7356382,SPVGG Dragons,4,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+31982831,Anoop Kiran,7356382,SPVGG Dragons,6,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+32108927,Vivek Singh,6591085,TSGN Mavericks,5,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+32108949,Imam Sheik,6591085,TSGN Mavericks,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38207037,Ketan Pawar,9390582,TSGN Royal Lions,5,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38207431,Aditya Tewari,9390582,TSGN Royal Lions,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38211959,Kuldeep Choudhary,9390582,TSGN Royal Lions,5,0,,,,0.00,0.00,0,0,0,Right-arm medium,0.0,0
+38213103,Indrajeet Rajput,9390582,TSGN Royal Lions,7,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38218259,Ashutosh Malasi,9390582,TSGN Royal Lions,2,0,,,,0.00,0.00,0,0,0,Right-arm fast,0.0,0
+38368806,Suyash Shukla,7392287,DCC Rising Stars,1,0,,,,0.00,0.00,0,0,0,-,0.0,0
+38510936,Raghunath Reddy Y,7392287,DCC Rising Stars,2,0,,,,0.00,0.00,0,0,0,-,0.0,0
