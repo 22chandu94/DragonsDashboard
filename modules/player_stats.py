@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 def show_player_stats(df):
-    st.subheader("⚡ Player Performance Leaderboards")
+    st.header("⚡ Player Performance Leaderboards")
 
     st.subheader("📊 Batting Average Comparison")
 
@@ -29,7 +29,7 @@ def show_player_stats(df):
         st.dataframe(sorted_df[["name", "innings", "average", "total_runs", "strike_rate"]])
 
     # --- Strike Rate Leaderboard ---
-    st.header("🔥 Strike Rate Leaderboard")
+    st.subheader("🔥 Strike Rate Leaderboard")
     sr_df = df[df["ball_faced"] > 0].copy().sort_values(by="strike_rate", ascending=False)
     fig_sr = px.bar(sr_df, x="name", y="strike_rate", color="strike_rate", text_auto=".1f", color_continuous_scale="OrRd")
     fig_sr.update_layout(xaxis_tickangle=-45)
@@ -38,7 +38,7 @@ def show_player_stats(df):
         st.dataframe(sr_df[["name", "strike_rate", "ball_faced", "total_runs"]])
 
     # --- Boundary % ---
-    st.header("🎯 Boundary Percentage Analysis")
+    st.subheader("🎯 Boundary Percentage Analysis")
     boundary_df = df.copy()
     boundary_df["total_boundaries"] = boundary_df["4s"] + boundary_df["6s"]
     boundary_df["boundary_runs"] = boundary_df["4s"] * 4 + boundary_df["6s"] * 6
@@ -52,7 +52,7 @@ def show_player_stats(df):
         st.dataframe(boundary_df[["name", "total_runs", "4s", "6s", "boundary_runs", "boundary_%"]])
 
     # --- Total 4s + 6s ---
-    st.header("💥 4s + 6s Leaderboard")
+    st.subheader("💥 4s + 6s Leaderboard")
     boundary_leader_df = df.copy()
     boundary_leader_df["total_boundaries"] = boundary_leader_df["4s"] + boundary_leader_df["6s"]
     boundary_leader_df = boundary_leader_df.sort_values(by="total_boundaries", ascending=False)
