@@ -38,7 +38,6 @@ if selected_player == "All Players":
     )
     st.plotly_chart(fig, use_container_width=True)
 
-    # OPTIONAL: Show table of top performers
     st.subheader("📋 Top 10 Run Scorers")
     st.dataframe(top_scorers[["Name", "Runs", "Average", "Strike Rate"]].head(10))
 

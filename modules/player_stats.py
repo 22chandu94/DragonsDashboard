@@ -37,7 +37,7 @@ def show_player_stats(df):
     with st.expander("See Data Table"):
         st.dataframe(sr_df[["Name", "Strike Rate", "Balls Faced", "Runs"]])
 
-    # --- Boundary % ---
+    # --- Boundary % ----
     st.header("🎯 Boundary Percentage Analysis")
     boundary_df = df.copy()
     boundary_df["total_boundaries"] = boundary_df["4s"] + boundary_df["6s"]
