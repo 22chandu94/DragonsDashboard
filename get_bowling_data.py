@@ -144,5 +144,5 @@ if __name__ == "__main__":
     result = merge_bowling_stats(df1, df2, df3, df4, df5, df6, df7)
 
     # Save
-    result.to_csv("final_bowling_data.csv", index=False, encoding="utf-8")
+    #result.to_csv("final_bowling_data.csv", index=False, encoding="utf-8")
     print(result.to_string())
