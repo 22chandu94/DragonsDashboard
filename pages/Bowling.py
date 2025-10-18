@@ -11,7 +11,7 @@ def load_data():
 
 df = load_data()
 
-st.title("🏏 Bowling Performance Dashboard")
+st.title("🏏 Bowling Insights")
 
 st.subheader("Team Summary")
 
