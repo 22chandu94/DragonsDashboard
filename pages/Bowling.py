@@ -12,21 +12,6 @@ def load_data():
 df = load_data()
 
 st.title("🏏 Bowling Insights")
-
-st.subheader("Team Summary")
-
-total_wickets = df["Wickets"].sum()
-total_runs = df["Runs Conceded"].sum()
-avg_economy = df["Economy"].mean()
-total_overs = df["Overs Bowled"].sum()
-
-col1, col2, col3, col4 = st.columns(4)
-col1.metric("Total Wickets", total_wickets)
-col2.metric("Total Runs Conceded", total_runs)
-col3.metric("Avg Economy", round(avg_economy, 2))
-col4.metric("Overs Bowled", total_overs)
-
-
 st.subheader("💰 Best Economy Rates (Min 10 Overs)")
 
 eco_df = df[df["Overs Bowled"] >= 10].sort_values("Economy", ascending=True).head(10)
