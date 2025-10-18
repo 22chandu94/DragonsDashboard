@@ -136,9 +136,7 @@ if selected_player:
             col3.metric("Run Outs", int(player_data["Run Outs"].sum()))
             col4.metric("Stumpings", int(player_data["Stumpings"].sum()))
 
-            col5, col6 = st.columns(2)
-            col5.metric("Total Catches", int(player_data["Total Catches"].sum()))
-            col6.metric("Total Dismissals", int(player_data["Total Dismissals"].sum()))
+            st.metric("Total Dismissals", int(player_data["Total Dismissals"].sum()))
 
             # Visuals
             metrics = ["Catches", "Run Outs", "Stumpings", "Total Dismissals"]
