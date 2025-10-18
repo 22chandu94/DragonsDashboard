@@ -20,14 +20,17 @@ col4.metric("Total 6s", total_6s)
 # DONUT CHART - RUNS CONTRIBUTION
 st.subheader("🎯 Run Contribution by Player")
 top_scorers = df_batting[df_batting["Runs"] > 0].sort_values(by="Runs", ascending=False)
-fig = px.pie(
+fig1 = px.pie(
     top_scorers,
     names="Name",
     values="Runs",
     title="Total Runs Scored by Each Player",
+    color_discrete_sequence=px.colors.sequential.Blues,
     hole=0.4
 )
-st.plotly_chart(fig, use_container_width=True)
+fig1.update_layout(xaxis_title="", yaxis_title="Runs", showlegend=False)
+st.plotly_chart(fig1, use_container_width=True)
+
 st.subheader("📋 Top 10 Run Scorers")
 st.dataframe(top_scorers[["Name", "Runs", "Average", "Strike Rate"]].head(10))
 
@@ -39,11 +42,11 @@ fig = px.pie(
     names="Player Name",
     values="Wickets",
     hole=0.4,
-    color_discrete_sequence=px.colors.sequential.Blues,
-    title="Top Wicket-Takers (Share of Total Wickets)"
+    color_discrete_sequence=px.colors.sequential.Reds,
+    title="Top Wicket-Takers of the season"
 )
 fig.update_layout(xaxis_title="", yaxis_title="Total Wickets", showlegend=False)
 st.plotly_chart(fig, use_container_width=True)
 
 st.subheader("📋 Top 10 Wicket Takers")
-st.dataframe(df_bowling[["Player Name", "Overs Bowled", "Wickets", "Economy", "Strike Rate", "Average", "Bowling Style"]], use_container_width=True)
+st.dataframe(df_bowling[["Player Name", "Overs Bowled", "Wickets", "Economy", "Strike Rate", "Average", "Bowling Style"]].head(10), use_container_width=True)
