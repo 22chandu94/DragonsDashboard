@@ -76,36 +76,36 @@ def merge_cricket_stats(*dfs):
     return final_df
 
 
+if __name__ == '__main__':
+    the_hundred = pd.read_csv("Data/The_Hunderd/batting_theHundred.csv")
+    the_hundred.drop(['team_id'], axis=1, inplace=True)
+    df1 = the_hundred[the_hundred["team_name"] == "SPVGG Dragons"].reset_index()
 
-the_hundred = pd.read_csv("Data/The_Hunderd/batting_theHundred.csv")
-the_hundred.drop(['team_id'], axis=1, inplace=True)
-df1 = the_hundred[the_hundred["team_name"] == "SPVGG Dragons"].reset_index()
+    beer_cup = pd.read_csv("Data/Beer_Cup/1397502_batting_leaderboard.csv")
+    beer_cup.drop(['team_id'], axis=1, inplace=True)
+    df2 = beer_cup[beer_cup["team_name"] == "SPVGG Dragons"].reset_index()
 
-beer_cup = pd.read_csv("Data/Beer_Cup/1397502_batting_leaderboard.csv")
-beer_cup.drop(['team_id'], axis=1, inplace=True)
-df2 = beer_cup[beer_cup["team_name"] == "SPVGG Dragons"].reset_index()
+    t20 = pd.read_csv("Data/T20/1563884_batting_leaderboard.csv")
+    t20.drop(['team_id'], axis=1, inplace=True)
+    df3 = t20[t20["team_name"] == "SPVGG Dragons"].reset_index()
 
-t20 = pd.read_csv("Data/T20/1563884_batting_leaderboard.csv")
-t20.drop(['team_id'], axis=1, inplace=True)
-df3 = t20[t20["team_name"] == "SPVGG Dragons"].reset_index()
+    trebur_cup = pd.read_csv("Data/Trebur_Cup/1397148_batting_leaderboard.csv")
+    trebur_cup.drop(['team_id'], axis=1, inplace=True)
+    df4 = trebur_cup[trebur_cup["team_name"] == "SPVGG Dragons"].reset_index()
 
-trebur_cup = pd.read_csv("Data/Trebur_Cup/1397148_batting_leaderboard.csv")
-trebur_cup.drop(['team_id'], axis=1, inplace=True)
-df4 = trebur_cup[trebur_cup["team_name"] == "SPVGG Dragons"].reset_index()
+    challengers_cup = pd.read_csv("Data/Challengers_Cup/1423920_batting_leaderboard.csv")
+    challengers_cup.drop(['team_id'], axis=1, inplace=True)
+    df5 = challengers_cup[challengers_cup["team_name"] == "SPVGG Dragons"].reset_index()
 
-challengers_cup = pd.read_csv("Data/Challengers_Cup/1423920_batting_leaderboard.csv")
-challengers_cup.drop(['team_id'], axis=1, inplace=True)
-df5 = challengers_cup[challengers_cup["team_name"] == "SPVGG Dragons"].reset_index()
+    liga = pd.read_csv("Data/Liga/batting_liga.csv")
+    df6 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
 
-liga = pd.read_csv("Data/Liga/batting_liga.csv")
-df6 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
+    rs_cup = pd.read_csv("Data/RS_Cup/batting_rs_cup.csv")
+    df7 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
 
-rs_cup = pd.read_csv("Data/RS_Cup/batting_rs_cup.csv")
-df7 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
-
-
-result = merge_cricket_stats(df1, df2, df3, df4, df5, df6, df7)
-result.drop(['player_id'], axis=1, inplace=True)
-result.columns = ["Name", "Team", "Matches", "Innings", "Runs", "Highest", "Average", "Not Outs", "Strike Rate", "Balls Faced", "Batting Hand", "4s", "6s", "50s", "100s"]
-result.to_csv("final_data.csv", index=False, encoding="utf-8")
-print(result.to_string())
+    result = merge_cricket_stats(df1, df2, df3, df4, df5, df6, df7)
+    result.drop(['player_id'], axis=1, inplace=True)
+    result.columns = ["Name", "Team", "Matches", "Innings", "Runs", "Highest", "Average", "Not Outs", "Strike Rate",
+                      "Balls Faced", "Batting Hand", "4s", "6s", "50s", "100s"]
+    result.to_csv("final_batting_data.csv", index=False, encoding="utf-8")
+    print(result.to_string())

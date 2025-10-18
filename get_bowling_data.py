@@ -126,11 +126,11 @@ if __name__ == "__main__":
     t20.drop(['team_id'], axis=1, inplace=True)
     df3 = t20[t20["team_name"] == "SPVGG Dragons"]
 
-    the_hundred = pd.read_csv("Data/T20/1563884_bowling_leaderboard.csv")
+    the_hundred = pd.read_csv("Data/The_Hunderd/bowling_theHundred.csv")
     the_hundred.drop(['team_id'], axis=1, inplace=True)
     df4 = the_hundred[the_hundred["team_name"] == "SPVGG Dragons"]
 
-    trebur_cup = pd.read_csv("Data/T20/1563884_bowling_leaderboard.csv")
+    trebur_cup = pd.read_csv("Data/Trebur_Cup/1397148_bowling_leaderboard.csv")
     trebur_cup.drop(['team_id'], axis=1, inplace=True)
     df5 = trebur_cup[trebur_cup["team_name"] == "SPVGG Dragons"]
 
@@ -144,5 +144,5 @@ if __name__ == "__main__":
     result = merge_bowling_stats(df1, df2, df3, df4, df5, df6, df7)
 
     # Save
-    #result.to_csv("final_bowling_data.csv", index=False, encoding="utf-8")
+    result.to_csv("final_bowling_data.csv", index=False, encoding="utf-8")
     print(result.to_string())
