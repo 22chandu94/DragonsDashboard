@@ -94,6 +94,9 @@ def merge_fielding_stats(*dfs):
         "Total Catches", "Total Dismissals", "Catches/Match", "Dismissals/Match"
     ]
 
+    final_df.drop(['Player ID'], axis=1, inplace=True)
+    final_df.drop(['Total Catches'], axis=1, inplace=True)
+
     return final_df
 
 
@@ -118,6 +121,13 @@ if __name__ == '__main__':
     trebur_cup.drop(['team_id'], axis=1, inplace=True)
     df5 = trebur_cup[trebur_cup["team_name"] == "SPVGG Dragons"]
 
-    result = merge_fielding_stats(df1, df2, df3, df4, df5)
+    rs_cup = pd.read_csv("Data/RS_Cup/fielding_rs_cup.csv")
+    df6 = rs_cup[rs_cup["team_name"] == "SPVGG Dragons"]
+
+    liga = pd.read_csv("Data/Liga/fielding_liga.csv")
+    df7 = liga[liga["team_name"] == "SPVGG Dragons"]
+
+    result = merge_fielding_stats(df1, df2, df3, df4, df5, df6, df7)
+    result = result[result["Total Dismissals"] > 0].copy()
     result.to_csv("final_fielding_data.csv", index=False, encoding="utf-8")
     print(result.to_string())
