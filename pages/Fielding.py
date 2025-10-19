@@ -4,7 +4,7 @@ import pandas as pd
 import os
 from modules.player_fielding import show_player_fielding
 
-@st.cache_data
+#@st.cache_data
 def load_data():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     csv_path = os.path.join(base_dir, "../final_fielding_data.csv")

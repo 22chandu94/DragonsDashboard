@@ -5,7 +5,7 @@ import plotly.express as px
 import os
 
 # --- Load Data ---
-@st.cache_data
+#@st.cache_data
 def load_data():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     batting_path = os.path.join(base_dir, "../final_batting_data.csv")

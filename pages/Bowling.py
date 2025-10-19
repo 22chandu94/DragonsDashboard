@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import os
 
-@st.cache_data
+#@st.cache_data
 def load_data():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     csv_path = os.path.join(base_dir, "../final_bowling_data.csv")
