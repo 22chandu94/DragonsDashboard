@@ -6,7 +6,7 @@ import os
 from modules.player_stats import show_player_stats
 
 # Load data
-@st.cache_data
+#@st.cache_data
 def load_data():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     csv_path = os.path.join(base_dir, "../final_batting_data.csv")
