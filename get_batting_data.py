@@ -101,9 +101,8 @@ if __name__ == '__main__':
     df6 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
 
     rs_cup = pd.read_csv("Data/RS_Cup/batting_rs_cup.csv")
-    df7 = liga[liga["team_name"] == "SPVGG Dragons"].reset_index()
 
-    result = merge_cricket_stats(df1, df2, df3, df4, df5, df6, df7)
+    result = merge_cricket_stats(df1, df2, df3, df4, df5, df6, rs_cup)
     result.drop(['player_id'], axis=1, inplace=True)
     result.columns = ["Name", "Team", "Matches", "Innings", "Runs", "Highest", "Average", "Not Outs", "Strike Rate",
                       "Balls Faced", "Batting Hand", "4s", "6s", "50s", "100s"]
